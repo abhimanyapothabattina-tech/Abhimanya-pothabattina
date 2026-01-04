@@ -14,7 +14,6 @@ SQL DATA MIGRATION DEVELOPER
   Hyderabad, India | <strong>abhimanyapothabattina@gmail.com</strong> | +91 8106362112
 </p>
 
-<img align="right" alt="Data Migration GIF" height="150" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif">
 
 **SQL Data Migration Developer** with hands-on experience migrating large datasets from legacy systems to SQL Server at Tata Consultancy Services (Feb 2022–Mar 2025). Specialized in SSMS for complex queries, stored procedures, data cleansing, and PLM Teamcenter integration. Currently in L3 Support for Teamcenter CR testing (Apr 2025–Present). 
 
